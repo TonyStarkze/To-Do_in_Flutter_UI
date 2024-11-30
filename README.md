@@ -4,7 +4,7 @@ A simple User Interface of to-do list app in Flutter.
 =======
 # flutter_forms_files
 
-<img src="to_do_list/main_page.jpg" alt="Home" width="300">
+<img src="to_do_list/main_page.jpg" alt="Main Page" width="300">
 <center>Main Page</center>
 
 ## Getting Started
